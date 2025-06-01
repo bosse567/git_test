@@ -1,3 +1,2 @@
-touch hello_world.txt
 "Hello Odin!"
 "hello World!"
